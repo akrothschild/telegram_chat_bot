@@ -1,0 +1,16 @@
+{
+  "name": "mistral",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "start": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^3.60.3"
+  },
+  "dependencies": {
+    "@mistralai/mistralai": "^0.5.0"
+  }
+}
