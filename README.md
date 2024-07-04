@@ -2,4 +2,4 @@
 
 To test write @ai_mistral_bot on Telegram
 
-You may use a CLoudflare worker to start it
+You may use a Cloudflare worker to start it
